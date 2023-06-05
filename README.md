@@ -1,4 +1,13 @@
 # web3auth-mpc-core-kit-walletconnect-example
+## Attention!
+This is a rough implementation sample for technical verification and is not intended for production use at all!  
+It contains security risks and bugs and should never be used in production.
+
+## Source
+- Web3Auth MPC Core Kit Web SDK Examples https://github.com/Web3Auth/web3auth-core-kit-examples
+- WalletConnect Example implements Sign v1 and v2 https://github.com/WalletConnect/web-examples/tree/main/wallets/react-wallet-v2
+
+## Backup
 # Web3Auth MPC Beta React Popup Example
 
 [![Web3Auth](https://img.shields.io/badge/Web3Auth-SDK-blue)](https://web3auth.io/docs/sdk/tkey)
